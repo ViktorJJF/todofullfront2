@@ -1,0 +1,13 @@
+.earnedPoints {
+    color: green
+}
+
+.lostPoints {
+    color: red
+}
+
+.primaryColor {
+    color: blue
+}
+
+.striped-border { border-bottom: 1px dashed #000; width: 90%; margin: auto; margin-top: 2%; margin-bottom: 2%; }

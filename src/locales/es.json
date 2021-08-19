@@ -1,0 +1,114 @@
+{
+    "users": {
+        "TITLE": "Usuarios",
+        "SUBTITLE": "Listado de usuarios",
+        "NEW_ITEM": "Nueva usuario",
+        "EDIT_ITEM": "Editar usuario",
+        "NO_DATA": "Aún no cuentas con registros",
+        "NO_RESULTS": "No hay resultados"
+    },
+    "products": {
+        "TITLE": "Productos",
+        "SUBTITLE": "Listado de productos",
+        "NEW_ITEM": "Nuevo producto",
+        "EDIT_ITEM": "Editar producto",
+        "NO_DATA": "Aún no cuentas con productos",
+        "NO_RESULTS": "No hay resultados"
+    },
+    "categories": {
+        "TITLE": "Categorías",
+        "SUBTITLE": "Listado de categorías",
+        "NEW_ITEM": "Nueva categoría",
+        "EDIT_ITEM": "Editar categoría",
+        "NO_DATA": "Aún no cuentas con categorías",
+        "NO_RESULTS": "No hay resultados"
+    },
+    "brands": {
+        "TITLE": "Marcas",
+        "SUBTITLE": "Listado de marcas",
+        "NEW_ITEM": "Nueva marca",
+        "EDIT_ITEM": "Editar marca",
+        "NO_DATA": "Aún no cuentas con marcas",
+        "NO_RESULTS": "No hay resultados"
+    },
+    "ecommerces": {
+        "TITLE": "Productos",
+        "SUBTITLE": "Listado de Productos",
+        "NEW_ITEM": "Nuevo producto",
+        "EDIT_ITEM": "Editar producto",
+        "NO_DATA": "Aún no cuentas con Productos",
+        "NO_RESULTS": "No hay resultados"
+    },
+    "ecommercesCategories": {
+        "TITLE": "Categorías",
+        "SUBTITLE": "Listado de Categorías",
+        "NEW_ITEM": "Nueva categoría",
+        "EDIT_ITEM": "Editar categoría",
+        "NO_DATA": "Aún no cuentas con Categorías",
+        "NO_RESULTS": "No hay resultados"
+    },
+    "ecommercesTags": {
+        "TITLE": "Etiquetas",
+        "SUBTITLE": "Listado de Etiquetas",
+        "NEW_ITEM": "Nueva etiqueta",
+        "EDIT_ITEM": "Editar etiqueta",
+        "NO_DATA": "Aún no cuentas con Etiquetas",
+        "NO_RESULTS": "No hay resultados"
+    },
+    "facebookLabels": {
+        "TITLE": "Etiquetas de Facebook",
+        "SUBTITLE": "Listado de Etiquetas de Facebook",
+        "NEW_ITEM": "Nueva etiqueta",
+        "EDIT_ITEM": "Editar etiqueta",
+        "NO_DATA": "Aún no cuentas con Etiquetas",
+        "NO_RESULTS": "No hay resultados"
+    },
+    "todofullLabels": {
+        "TITLE": "Etiquetas de Todofull",
+        "SUBTITLE": "Listado de Etiquetas de Todofull",
+        "NEW_ITEM": "Nueva etiqueta",
+        "EDIT_ITEM": "Editar etiqueta",
+        "NO_DATA": "Aún no cuentas con Etiquetas",
+        "NO_RESULTS": "No hay resultados"
+    },
+    "ecommercesContacts": {
+        "TITLE": "Contactos de Woocommerce",
+        "SUBTITLE": "Listado de contactos Woocommerce",
+        "NEW_ITEM": "Nuevo contacto",
+        "EDIT_ITEM": "Editar contacto",
+        "NO_DATA": "Aún no cuentas con Contactos de Woocommerce",
+        "NO_RESULTS": "No hay resultados"
+    },
+    "ecommercesOrders": {
+        "TITLE": "Órdenes de Woocommerce",
+        "SUBTITLE": "Listado de órdenes Woocommerce",
+        "NEW_ITEM": "Nueva contacto",
+        "EDIT_ITEM": "Editar contacto",
+        "NO_DATA": "Aún no cuentas con Órdenes de Woocommerce",
+        "NO_RESULTS": "No hay resultados"
+    },
+    "commentsWithoutResponses": {
+        "TITLE": "Comentarios no respondidos por Bot",
+        "SUBTITLE": "Listado de comentarios no respondidos por Bot",
+        "NEW_ITEM": "Nueva contacto",
+        "EDIT_ITEM": "Editar contacto",
+        "NO_DATA": "Aún no cuentas con comentarios no respondidos",
+        "NO_RESULTS": "No hay resultados"
+    },
+    "mailchimps": {
+        "TITLE": "Credenciales de Mailchimp",
+        "SUBTITLE": "Listado credenciales Mailchimp",
+        "NEW_ITEM": "Nuevo Mailchimp",
+        "EDIT_ITEM": "Editar Mailchimp",
+        "NO_DATA": "Aún no cuentas con credenciales de Mailchimp",
+        "NO_RESULTS": "No hay resultados"
+    },
+    "mailchimpContacts": {
+        "TITLE": "Contactos de Mailchimp",
+        "SUBTITLE": "Listado contactos Mailchimp",
+        "NEW_ITEM": "Nuevo Contacto",
+        "EDIT_ITEM": "Editar Contacto",
+        "NO_DATA": "Aún no cuentas con contactos de Mailchimp",
+        "NO_RESULTS": "No hay resultados"
+    }
+}

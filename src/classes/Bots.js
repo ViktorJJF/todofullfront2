@@ -1,0 +1,15 @@
+export default () => ({
+  name: "",
+  webhookUrl: "",
+  fanpageName: "",
+  fanpageUrl: "",
+  fanpageId: "",
+  fbPageToken: "",
+  fbVerifyToken: "",
+  fbAppSecret: "",
+  googleProjectId: "",
+  dialogflowLanguageCode: "",
+  googleClientEmail: "",
+  googlePrivateKey: "",
+  country: "",
+});

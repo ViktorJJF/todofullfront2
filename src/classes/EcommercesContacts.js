@@ -1,0 +1,28 @@
+export default () => ({
+  idOrder: 0,
+  parent_id: 0,
+  status: "",
+  currency: "",
+  date_created: "",
+  date_modified: "",
+  discount_total: "",
+  shipping_total: "",
+  customer_id: 0,
+  ecommercesContactId: "",
+  order_key: "",
+  payment_method: "",
+  customer_ip_address: "",
+  customer_user_agent: "",
+  rut: "",
+  mailchimp: {
+    id: 0,
+    status: "",
+  },
+  payment: {
+    key: "",
+    value: "",
+  },
+  line_items: [],
+  country: "",
+  url: "",
+});
